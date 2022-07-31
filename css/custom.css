@@ -198,11 +198,21 @@ a:hover {
 #accordion3 #about {
 	 color: #000000;
 }
-#accordion3 #about > p > a{
-	 font-size: larger;
-	 font-weight: bold;
-	 color: #df6c31;
-	 text-decoration: underline;
+/*!
+ * ボタン設定
+ */
+#accordion3 #about > p > a {
+	height: 25px;
+	min-width: 20px;
+	padding: 0 10px;
+	margin: 5px 10px;
+	background: #EDEDED;
+	border-radius: 5px;
+	box-shadow: 0px 1px 3px 1px rgba(0, 0, 0, 0.5);
+	color: #000000;
+	text-align: center;
+	line-height: 25px;
+	display: inline-block;	
 }
 #accordion3 a.accordion-toggle-top {
 	color: #000000;
