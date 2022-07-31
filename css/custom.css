@@ -199,6 +199,9 @@ a:hover {
 /*!
  * ボタン設定
  */
+#accordion3 #about2 {
+  max-width: 500px;
+}
 #accordion3 #about > p > a {
 	height: 30px;
 	min-width: 20px;
