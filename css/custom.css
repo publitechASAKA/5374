@@ -148,6 +148,7 @@ a:hover {
  */
 #accordion3 #about2 {
   max-width: 300px;
+  margin: 0 auto;
 }
 #accordion3 #about2 > p > a {
   display: flex;
