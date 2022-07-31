@@ -146,9 +146,6 @@ a:hover {
 /*!
  * ボタン設定
  */
-#accordion3 #about2 {
-  max-width: 300px;
-}
 #accordion3 #about2 > p > a {
   margin: 0 auto;
   display: flex;
