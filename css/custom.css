@@ -121,7 +121,11 @@ a:hover {
 }
 #accordion3 #help {
 	margin-left: 5px;
-	color: #7F7F7F;
+	color: #000000;
+}
+#accordion3 #help > a{
+	 color: #000000;
+	 text-decoration: underline;
 }
 
 /*!
